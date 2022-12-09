@@ -20,7 +20,7 @@ dev_requires = [
 ] + tests_requires
 
 install_flask_requires = [
-    "flask>=1
+    "flask>=1"
 ]
 
 install_sanic_requires = [
